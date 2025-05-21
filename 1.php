@@ -62,8 +62,8 @@ $pdo = null;
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="title">掲示板だよ</h1>
-    <p class="p">これはテストでつくった掲示板だよ</p>
+    <h1 class="title">掲示板</h1>
+    <p class="p">好きなことを書いてください</p>
 
  <form class="form" method="POST">
                         <label for="">名前:</label>
